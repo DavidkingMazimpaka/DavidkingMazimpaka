@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/david king mazimpaka" target="blank"><img src="https://img.shields.io/twitter/follow/david king mazimpaka?logo=twitter&style=for-the-badge" alt="david king mazimpaka" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, C#, swift, and Cyber Security**
+- 🌱 I’m currently learning **Flutter, Pure Python, and Cyber Security**
 
-- 💬 Ask me about **Desktop applications, Database**
+- 💬 Ask me about **AI and Machine Learning, web applications, and Mobile Applications**
 
-- 📫 How to reach me **daluca250@gmail.com**
+- 📫 How to reach me **d.mazimpaka@alustudent.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1ELRxgER8CZMrgDAxj9sxRNYonAEKlMrK7vcYtyX1m-k/edit?usp=sharing](https://docs.google.com/document/d/1ELRxgER8CZMrgDAxj9sxRNYonAEKlMrK7vcYtyX1m-k/edit?usp=sharing)
 
