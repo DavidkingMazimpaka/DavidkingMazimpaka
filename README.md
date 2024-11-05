@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm David King </h1>
+<h1 align="center">Hi 👋, I'm David King Mazimpaka</h1>
 <h3 align="center">A passionate Machine Learning Engineer and TECH enthusiast.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidkingmazimpaka&label=Profile%20views&color=0e75b6&style=flat" alt="davidkingmazimpaka" /> </p>
 
 <p align="left"> <a href="https://twitter.com/david king mazimpaka" target="blank"><img src="https://img.shields.io/twitter/follow/david king mazimpaka?logo=twitter&style=for-the-badge" alt="david king mazimpaka" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Pure Python, Machine Learning, and Cyber Security**
+- 🌱 I’m currently learning **MLOps, Pure Python, Machine Learning, and Cyber Security**
 
 - 💬 Ask me about **AI and Machine Learning, web applications, and Mobile Applications**
 
-- 📫 How to reach me **d.mazimpaka@alustudent.com**
+- 📫 How to reach me **mazimpakadavid607@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1ELRxgER8CZMrgDAxj9sxRNYonAEKlMrK7vcYtyX1m-k/edit?usp=sharing](https://docs.google.com/document/d/1ELRxgER8CZMrgDAxj9sxRNYonAEKlMrK7vcYtyX1m-k/edit?usp=sharing)
 
-- ⚡ Fun fact **I make people laugh without laughing**
+- ⚡ Fun fact **Some AI algorithms developed by engineers have gone rogue and created abstract art. GANs (Generative Adversarial Networks) have been known to create stunning, surreal images without any human guidance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
