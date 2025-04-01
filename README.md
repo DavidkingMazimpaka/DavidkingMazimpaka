@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm David King Mazimpaka</h1>
-<h3 align="center">A passionate Machine Learning Engineer and TECH enthusiast.</h3>
+<h1 align="center">Hi 👋, I'm King  David Mazimpaka</h1>
+<h3 align="center">A passionate Software Engineer and TECH Entreprenuer.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidkingmazimpaka&label=Profile%20views&color=0e75b6&style=flat" alt="davidkingmazimpaka" /> </p>
 
