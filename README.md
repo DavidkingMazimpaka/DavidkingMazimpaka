@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mazimpakadavid607@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ELRxgER8CZMrgDAxj9sxRNYonAEKlMrK7vcYtyX1m-k/edit?usp=sharing](https://docs.google.com/document/d/1ELRxgER8CZMrgDAxj9sxRNYonAEKlMrK7vcYtyX1m-k/edit?usp=sharing)
+- 📄 Know about my experiences [My Professional Portfolio](https://king-david-portfolio.vercel.app/)
 
 - ⚡ Fun fact **Some AI algorithms developed by engineers have gone rogue and created abstract art. GANs (Generative Adversarial Networks) have been known to create stunning, surreal images without any human guidance.**
 
